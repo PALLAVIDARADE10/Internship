@@ -1,2 +1,0 @@
-cd material-ui-app
-npm install @mui/material axios
