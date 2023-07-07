@@ -1,0 +1,5 @@
+Step 4: Run the application
+Start the development server and open your web browser to http://localhost:3000 to see the app in action:
+
+
+npm start
